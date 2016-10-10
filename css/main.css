@@ -24,6 +24,7 @@ li{
 ul li{
   display: inline-block;
   margin: 8px;
+  vertical-align: top;
 }
 button{
   width: 48px;
